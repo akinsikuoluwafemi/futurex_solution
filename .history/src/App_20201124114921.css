@@ -1,0 +1,23 @@
+.logo-img {
+    height: 2rem;
+}
+
+a:hover {
+    /* color: # */
+}
+
+.cart {
+    background: pink;
+    padding: .5rem;
+    width: fit-content;
+    padding: .5rem!important;
+    border-radius: 10px;
+}
+
+.productlist {
+    background: pink;
+    height: 100vh;
+    width: 100vw;
+    padding: 2rem;
+
+}

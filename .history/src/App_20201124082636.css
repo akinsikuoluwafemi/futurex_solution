@@ -1,0 +1,10 @@
+.main-nav-active {
+  color: teal!important;
+  transform: scale(1.2);
+  // background: red;
+}
+
+.main-nav-active:hover {
+  color: #eef0f1!important;
+  /* // background: red; */
+}

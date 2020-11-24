@@ -1,0 +1,21 @@
+.nav {
+    background: teal;
+
+}
+.mr-auto {
+    
+}
+
+.nav-ordered-list {
+    display: flex;
+    align-items: center;
+}
+
+li{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
